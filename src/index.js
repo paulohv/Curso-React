@@ -1,3 +1,5 @@
+const { useCallback } = require("react")
+
 const personajes = ['Goku', 'Vegeta', 'Trunks']
 const [ , , p3 ] = personajes
 console.log( p3 )
@@ -19,3 +21,5 @@ const state = ( valor ) => {
 const [nombre, setNombre] = state('Goku')
 console.log( nombre )
 setNombre()
+
+const joaquin = 'weco'
