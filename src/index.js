@@ -21,6 +21,3 @@ const state = ( valor ) => {
 const [nombre, setNombre] = state('Goku')
 console.log( nombre )
 setNombre()
-
-const UnTontoQlo = 'Paulo qlo weko bueno pal pico'
-console.log(UnTontoQlo)
