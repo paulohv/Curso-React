@@ -22,4 +22,5 @@ const [nombre, setNombre] = state('Goku')
 console.log( nombre )
 setNombre()
 
-const joaquin = 'weco'
+const UnTontoQlo = 'Paulo qlo weko bueno pal pico'
+console.log(UnTontoQlo)
